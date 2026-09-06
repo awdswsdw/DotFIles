@@ -1,0 +1,11 @@
+* {
+    background:     #1d2021e5;
+    background-alt: #282828ff;
+    background-sec: #d4be98e5;
+    foreground:     #7daea3ff;
+    selected:       #89ff;
+    active:         #41a6b5ff;
+    urgent:         #f7768eff;
+    highlight:      rgba(112, 114, 128, 0.16);
+    color-border:   rgba(190, 192, 198, 0.9);
+}
